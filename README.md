@@ -1,1 +1,7 @@
-# ghferraro-github.io
+# Greg Ferraro
+
+### Education
+Economics
+
+### Publications
+Working on it
