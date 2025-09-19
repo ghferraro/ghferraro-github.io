@@ -1,27 +1,5 @@
-title: Greg Ferraro
-name: Greg Ferraro
-description: Economics PhD Candidate  
-
-# Profile picture (put gf_Headshot2.jpg in your repo root or /assets/images/)
-logo: /gf_Headshot2.jpg  
-
-remote_theme: mmistakes/minimal-mistakes@latest
-
-plugins:
-  - jekyll-include-cache
-  - jekyll-remote-theme
-
-# Optional: Google Analytics, social links, etc.
-author:
-  name: Greg Ferraro
-  avatar: /gf_Headshot2.jpg
-  bio: "Economics PhD Candidate"
-  links:
-    - label: "CV"
-      url: "/cv/"
-    - label: "Research"
-      url: "/research/"
-    - label: "Teaching"
-      url: "/teaching/"
-    - label: "GitHub"
-      url: "https://github.com/yourusername"
+title: Greg Ferraro 
+logo: gf_Headshot2.jpg 
+description: Economics PhD Cadidate 
+remote_theme: pages-themes/minimal@v0.2.0 
+plugins: - jekyll-remote-theme
