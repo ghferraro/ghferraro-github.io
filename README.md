@@ -37,8 +37,12 @@ Ferraro et al (2025), Revisiting an Instrumental Variable Approach for Glyphosat
 
 ## Other Noteworthy Positions
 Fulbright Public Policy Scholar in Cote d'Ivoire (2021)
+
 Intern (2018 - 2019) and Analyst (2020 - 2021) at PureEarth, NY
+
 Intern Fordham Bedford Housing Company (2018 - 2020)
+
 Field Research Manager at ETS Haiti, Port au Price (2017-2018)
+
 Peace Corps Volunteer in Cameroon (2014 - 2016)
 
